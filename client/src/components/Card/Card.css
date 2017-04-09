@@ -1,7 +1,7 @@
 .Card {
   background-color: white;
   border: 1px solid grey;
-  height: 20%;
+  /*height: 20%;*/
   margin-bottom: 5rem;
   min-height: 100px;
   text-align: center;

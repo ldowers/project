@@ -1,5 +1,6 @@
 // src/components/About/index.jsx
-import React, { PropTypes, Component } from 'react';
+// import React, { PropTypes, Component } from 'react';
+import React, { Component } from 'react';
 import classnames from 'classnames';
 
 import './About.css';

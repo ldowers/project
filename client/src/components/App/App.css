@@ -12,13 +12,32 @@
   height: 150px;
   padding: 20px;
   color: white;
+  margin-bottom: 40px;
 }
 
-.App-intro {
+/*.App-intro {
   font-size: large;
-}
+}*/
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.App {
+  background-color: white;
+  /*position: relative;
+  height: 100vh;
+  width: 100vw;
+  padding-top: 70px;*/
+}
+
+.App-cards {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+  height: 100%;
 }
