@@ -57,7 +57,7 @@ class App extends Component {
                     bsStyle="primary"
                     bsSize="large"
                     href="device"
-                    target="_blank">
+                    target="_self">
                     View Detected Devices
                   </Button>
                 </div>
