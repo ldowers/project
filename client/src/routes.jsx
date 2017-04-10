@@ -5,11 +5,13 @@ import { Router, Route } from 'react-router';
 import App from './components/App';
 import About from './components/About';
 import NotFound from './components/NotFound';
+import Device from "./components/Device";
 
 const Routes = (props) => (
   <Router {...props}>
     <Route path="/" component={App} />
     <Route path="/about" component={About} />
+    <Route path="/device" component={Device} />
     <Route path="*" component={NotFound} />
   </Router>
 );
