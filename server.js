@@ -5,7 +5,6 @@ var logger = require("morgan");
 var mongoose = require("mongoose");
 var path = require('path');
 
-
 // Mongoose mpromise deprecated - use bluebird promises
 var Promise = require("bluebird");
 mongoose.Promise = Promise;

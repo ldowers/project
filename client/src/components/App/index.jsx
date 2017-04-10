@@ -29,7 +29,7 @@ class App extends Component {
                 <h2>Internet of Things Security Project</h2>
               </div>
               <div className="row">
-                <h3>Sara, Brandon, Joseph</h3>
+                <h3>Sara, Brandon, Jacob</h3>
                 <h3>Sponsored by Sophos</h3>
                 <hr></hr>
               </div>
