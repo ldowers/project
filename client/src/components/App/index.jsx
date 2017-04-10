@@ -61,7 +61,6 @@ class App extends Component {
                     View Detected Devices
                   </Button>
                 </div>
-
               </div>
             </div>
           </Grid>
