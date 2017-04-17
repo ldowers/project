@@ -153,4 +153,4 @@ router.delete('/system/:id', function (req, res) {
     });
 });
 
-module.exports = router
+module.exports = router;
